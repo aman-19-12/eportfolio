@@ -24,7 +24,7 @@ function App() {
                 {/* Antigravity Global Header */}
                 <header className="w-full max-w-7xl mx-auto px-4 mt-12 mb-8">
                     <h1 className="text-5xl font-extrabold tracking-tighter md:text-7xl lg:text-8xl text-white drop-shadow-[0_0_25px_rgba(255,255,255,0.4)]">
-                        Aman Panwar.
+                        Aman Panwar
                     </h1>
                     <p className="text-gray-400 tracking-wide font-medium mt-2 md:text-xl">B.Tech CSE student at Graphic Era Hill University.</p>
                 </header>

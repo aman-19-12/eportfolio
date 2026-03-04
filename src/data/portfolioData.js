@@ -1,6 +1,6 @@
 export const portfolioData = {
     profile: {
-        name: "Aman Panwar",
+        name: "Aman Panwar ",
         role: "Creative Coder & Graphic Designer",
         university: "Graphic Era Hill University",
         location: "Dehradun, India",

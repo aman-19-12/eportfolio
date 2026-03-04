@@ -16,22 +16,22 @@ const AboutBox = () => {
                 />
                 <motion.img
                     src={profilePic}
-                    alt="Aman Panwar"
+                    alt=" Aman Panwar "
                     className="w-full h-full object-cover rounded-full filter grayscale group-hover:grayscale-0 transition-all duration-500"
                 />
             </div>
 
             {/* Bio Content */}
             <div className="text-center flex-grow flex flex-col justify-center">
-                <h2 className="text-2xl md:text-3xl font-bold text-white tracking-tighter mb-1">Aman Panwar</h2>
-                <p className="text-cyan-400 text-[10px] md:text-xs font-mono mb-4">CSE Student @ GEHU | Graphic Designer | PR Specialist</p>
+                <h2 className="text-2xl md:text-3xl font-bold text-white tracking-tighter mb-1">Aman Panwar </h2>
+                <p className="text-cyan-400 text-[10px] md:text-xs font-mono mb-4">CSE Student @ GEHU | Graphic Designer | Freelancer</p>
 
                 <p className="text-zinc-400 text-sm md:text-base leading-relaxed">
                     I'm a B.Tech 2nd-year Computer Science student with a strong interest in learning new technologies and developing creative solutions. I enjoy working on coding projects, solving real-world problems, and continuously improving my technical skills.
                 </p>
             </div>
 
-            {/* Background Decorative Element */}
+            {/* Background Decorative Element */} 
             <div className="absolute -bottom-10 -right-10 w-48 h-48 bg-purple-500/10 blur-3xl rounded-full z-0 pointer-events-none" />
         </motion.div>
     );
